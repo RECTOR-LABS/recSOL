@@ -4,15 +4,22 @@ Welcome to the **recSOL** repository! This project introduces the Liquid Staking
 
 ---
 
-## Overview
+## Overview  
 
-The **recSOL** token represents staked SOL on the Solana blockchain, providing a 1:1 equivalence:  
-**1 recSOL = 1 SOL**
+The **recSOL** token represents staked SOL on the Solana blockchain, providing a mechanism to earn staking rewards while maintaining liquidity.  
 
-Key benefits include:  
-- **Liquidity**: Retain the flexibility of SOL usage while earning staking rewards.  
-- **Simplicity**: Stake SOL effortlessly without worrying about technical complexities.  
-- **Decentralized**: Built on the robust and secure Solana blockchain.  
+### Key Features:  
+- **Yield Accrual**: Over time, the value of recSOL relative to SOL increases. This is due to staking rewards being added to the pool, which benefits all recSOL holders.  
+  - For example, if you hold 1 recSOL today, it will represent more SOL in the future as rewards are distributed to the staking pool.  
+- **Liquidity**: Use your recSOL tokens freely in DeFi protocols while earning staking rewards.  
+- **Decentralization**: Powered by the secure and efficient Solana blockchain.
+
+**How it works**:  
+- When you stake SOL to mint recSOL, your SOL is delegated to validators that earn staking rewards.  
+- These rewards are continuously added to the staking pool, increasing the SOL backing each recSOL.  
+- This means the recSOL/SOL ratio will grow over time, reflecting the accumulation of staking rewards.  
+
+By holding recSOL, you're automatically compounding your staking rewards without any additional action required.
 
 ---
 

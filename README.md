@@ -1,4 +1,4 @@
-# recSOL - Liquid Staking Token
+# recSOL - Liquid Staking Token (RECTOR SOL)
 
 Welcome to the **recSOL** repository! This project introduces the Liquid Staking Token (LST), **$recSOL**, which empowers users to stake Solana ($SOL) while retaining liquidity and earning rewards seamlessly.  
 

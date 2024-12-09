@@ -2,7 +2,7 @@
   "name": "RECTOR SOL",
   "symbol": "recSOL",
   "description": "The LST for the RECTOR NODE",
-  "image": "metadata/recSOL-logo.png",
-  "twitter": "https://raw.githubusercontent.com/RECTOR-LABS/recSOL/refs/heads/main/metadata/recSOL-logo.png",
+  "image": "https://raw.githubusercontent.com/RECTOR-LABS/recSOL/refs/heads/main/metadata/recSOL-logo.png",
+  "twitter": "https://x.com/RZ1989sol",
   "website": "https://rectorspace.com/"
 }
